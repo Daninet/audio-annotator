@@ -37,5 +37,8 @@
   },
   "devDependencies": {
     "@types/wavesurfer.js": "^5.1.0"
+  },
+  "optionalDependencies": {
+    "fsevents": "^2.3.2"
   }
 }
